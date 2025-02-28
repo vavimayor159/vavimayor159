@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Garcia</h1>
-<h3 align="center">A passionate backend developer from Mexico</h3>
+<h3 align="center">A passionate software engineer from 🇲🇽</h3>
 
 <p align="left"> <a href="https://twitter.com/jimmychoco" target="blank"><img src="https://img.shields.io/twitter/follow/jimmychoco?logo=twitter&style=for-the-badge" alt="jimmychoco" /></a> </p>
 
