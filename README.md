@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ivan Garcia</h1>
 <h3 align="center">A passionate software engineer from 🇲🇽</h3>
 
+<ul>
+  <li>
+   If you are a recruiter, check out my linkedin: 
+    <a href="https://linkedin.com/in/ivgarcian](https://linkedin.com/in/ivgarcian">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+    </a>
+  </li>
+  <li>
+   If you are a dev, check out my repos:
+    <a href="https://vavimayor159.github.io](https://vavimayor159.github.io">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" width="40"/>
+    </a>
+  </li>
+  <li>
+   If you are an stalker, c'moon, give me some ⭐️ you are already here :)
+  </li>
+</ul>
+
+
 <p align="left"> <a href="https://twitter.com/jimmychoco" target="blank"><img src="https://img.shields.io/twitter/follow/jimmychoco?logo=twitter&style=for-the-badge" alt="jimmychoco" /></a> </p>
 
 - 🌱 I’m currently learning **AI, 中文**
@@ -13,7 +32,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/ivgarcian](https://linkedin.com/in/ivgarcian)
 
-- ⚡ Fun fact **I can write code while I eat, drink, workout..jk**
+- ⚡ Fun facts **I hate vertical aligning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
